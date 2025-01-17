@@ -1,0 +1,13 @@
+/app/vendor/
+/app/var/
+
+*.csv
+.phpunit.result.cache
+/.idea/
+/.vscode/
+/.env
+/.editorconfig
+/.gitattributes
+/auth.json
+package-lock.json
+.edgerc
