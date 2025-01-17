@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": { "App\\": "src/" }
+    },
+    "require-dev": {
+        "symfony/web-profiler-bundle": "*"
+    },
+    "require": {
+        "symfony/validator": "^7.2",
+        "guzzlehttp/guzzle": "^7.9",
+        "symfony/console": "^7.2",
+        "symfony/framework-bundle": "^7.2",
+        "symfony/yaml": "^7.2"
+    }
+}
